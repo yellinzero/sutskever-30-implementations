@@ -10,11 +10,11 @@
 | 02 | `02_char_rnn_karpathy.ipynb` | 已验证 |
 | 03 | `03_lstm_understanding.ipynb` | 已验证 |
 | 04 | `04_rnn_regularization.ipynb` | 已验证 |
-| 05 | `05_neural_network_pruning.ipynb` | 翻译中 |
-| 06 | `06_pointer_networks.ipynb` | 待翻译 |
-| 07 | `07_alexnet_cnn.ipynb` | 待翻译 |
-| 08 | `08_seq2seq_for_sets.ipynb` | 待翻译 |
-| 09 | `09_gpipe.ipynb` | 待翻译 |
+| 05 | `05_neural_network_pruning.ipynb` | 已验证 |
+| 06 | `06_pointer_networks.ipynb` | 已验证 |
+| 07 | `07_alexnet_cnn.ipynb` | 已验证 |
+| 08 | `08_seq2seq_for_sets.ipynb` | 已验证 |
+| 09 | `09_gpipe.ipynb` | 已验证 |
 | 10 | `10_resnet_deep_residual.ipynb` | 待翻译 |
 | 11 | `11_dilated_convolutions.ipynb` | 待翻译 |
 | 12 | `12_graph_neural_networks.ipynb` | 待翻译 |
