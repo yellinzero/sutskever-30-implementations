@@ -9,8 +9,8 @@
 | 01 | `01_complexity_dynamics.ipynb` | 已验证 |
 | 02 | `02_char_rnn_karpathy.ipynb` | 已验证 |
 | 03 | `03_lstm_understanding.ipynb` | 已验证 |
-| 04 | `04_rnn_regularization.ipynb` | 翻译中 |
-| 05 | `05_neural_network_pruning.ipynb` | 待翻译 |
+| 04 | `04_rnn_regularization.ipynb` | 已验证 |
+| 05 | `05_neural_network_pruning.ipynb` | 翻译中 |
 | 06 | `06_pointer_networks.ipynb` | 待翻译 |
 | 07 | `07_alexnet_cnn.ipynb` | 待翻译 |
 | 08 | `08_seq2seq_for_sets.ipynb` | 待翻译 |
@@ -40,6 +40,6 @@
 ## 其他文本文件
 
 - 根目录说明文档：待翻译
-- Python 注释与 docstring：待翻译
+- Python 注释与 docstring：待翻译；可执行字符串和训练资料保留英文
 - JSON 中面向学习者的文本：待检查
 - 图片、模型权重等二进制资源：保留并复用，不进行文字翻译
