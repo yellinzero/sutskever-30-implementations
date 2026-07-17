@@ -1,5 +1,7 @@
 # Sutskever 30 - Complete Implementation Suite
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 **Comprehensive toy implementations of the 30 foundational papers recommended by Ilya Sutskever**
 
 [![Implementations](https://img.shields.io/badge/Implementations-30%2F30-brightgreen)](https://github.com/pageman/sutskever-30-implementations)
