@@ -15,11 +15,11 @@
 | 07 | `07_alexnet_cnn.ipynb` | 已验证 |
 | 08 | `08_seq2seq_for_sets.ipynb` | 已验证 |
 | 09 | `09_gpipe.ipynb` | 已验证 |
-| 10 | `10_resnet_deep_residual.ipynb` | 待翻译 |
-| 11 | `11_dilated_convolutions.ipynb` | 待翻译 |
-| 12 | `12_graph_neural_networks.ipynb` | 待翻译 |
-| 13 | `13_attention_is_all_you_need.ipynb` | 待翻译 |
-| 14 | `14_bahdanau_attention.ipynb` | 待翻译 |
+| 10 | `10_resnet_deep_residual.ipynb` | 已验证 |
+| 11 | `11_dilated_convolutions.ipynb` | 已验证 |
+| 12 | `12_graph_neural_networks.ipynb` | 已验证 |
+| 13 | `13_attention_is_all_you_need.ipynb` | 已验证 |
+| 14 | `14_bahdanau_attention.ipynb` | 已验证 |
 | 15 | `15_identity_mappings_resnet.ipynb` | 待翻译 |
 | 16 | `16_relational_reasoning.ipynb` | 待翻译 |
 | 17 | `17_variational_autoencoder.ipynb` | 待翻译 |
