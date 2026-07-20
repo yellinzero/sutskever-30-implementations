@@ -31,11 +31,11 @@
 | 23 | `23_mdl_principle.ipynb` | 已验证 |
 | 24 | `24_machine_super_intelligence.ipynb` | 已验证 |
 | 25 | `25_kolmogorov_complexity.ipynb` | 已验证 |
-| 26 | `26_cs231n_cnn_fundamentals.ipynb` | 待翻译 |
-| 27 | `27_multi_token_prediction.ipynb` | 待翻译 |
-| 28 | `28_dense_passage_retrieval.ipynb` | 待翻译 |
-| 29 | `29_rag.ipynb` | 待翻译 |
-| 30 | `30_lost_in_middle.ipynb` | 待翻译 |
+| 26 | `26_cs231n_cnn_fundamentals.ipynb` | 已验证 |
+| 27 | `27_multi_token_prediction.ipynb` | 已验证 |
+| 28 | `28_dense_passage_retrieval.ipynb` | 已验证 |
+| 29 | `29_rag.ipynb` | 已验证 |
+| 30 | `30_lost_in_middle.ipynb` | 已验证 |
 
 ## 其他文本文件
 
