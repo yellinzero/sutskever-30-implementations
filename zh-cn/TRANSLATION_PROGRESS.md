@@ -26,11 +26,11 @@
 | 18 | `18_relational_rnn.ipynb` | 已验证 |
 | 19 | `19_coffee_automaton.ipynb` | 已验证 |
 | 20 | `20_neural_turing_machine.ipynb` | 已验证 |
-| 21 | `21_ctc_speech.ipynb` | 待翻译 |
-| 22 | `22_scaling_laws.ipynb` | 待翻译 |
-| 23 | `23_mdl_principle.ipynb` | 待翻译 |
-| 24 | `24_machine_super_intelligence.ipynb` | 待翻译 |
-| 25 | `25_kolmogorov_complexity.ipynb` | 待翻译 |
+| 21 | `21_ctc_speech.ipynb` | 已验证 |
+| 22 | `22_scaling_laws.ipynb` | 已验证 |
+| 23 | `23_mdl_principle.ipynb` | 已验证 |
+| 24 | `24_machine_super_intelligence.ipynb` | 已验证 |
+| 25 | `25_kolmogorov_complexity.ipynb` | 已验证 |
 | 26 | `26_cs231n_cnn_fundamentals.ipynb` | 待翻译 |
 | 27 | `27_multi_token_prediction.ipynb` | 待翻译 |
 | 28 | `28_dense_passage_retrieval.ipynb` | 待翻译 |
